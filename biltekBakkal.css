@@ -1,0 +1,29 @@
+
+h1{
+    font-size: 2rem;
+    text-align: center;
+    margin-bottom: 15px;
+
+}
+.titles a{
+    text-decoration: none;
+    margin-left: 295px;
+    margin-bottom: 15px;
+    color:crimson;
+}
+hr{
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+h2{
+    text-align: center;
+    margin:15px;
+}
+#productLink{
+    text-decoration: none;
+    color: rgb(55, 101, 158);
+}
+*{
+    font-family: sans-serif;
+    background-color: rgb(241, 224, 241);
+}
